@@ -57,6 +57,7 @@
 	</div>
 
 	<h2>Ajax Test Page</h2>
+	<h2>Ajax Test Page</h2>
 
 	<div>
 		<div>
